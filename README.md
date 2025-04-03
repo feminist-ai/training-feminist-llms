@@ -20,7 +20,9 @@ Any contributor who has provided their name will get a copy of the trained model
 
 #### Privacy concerns
 
-Because [machine learning models can and do memorize parts of their training data](), we ask that you only contribute material that you would be okay if the model memorized and repeated. Again, we will release a list of contributors to this initial model, but it is not possible with our setup to have the model directly cite your work. 
+Because [machine learning models can and do memorize parts of their training data](https://blog.kjamistan.com/deep-learning-memorization-and-why-you-should-care.html), we ask that you only contribute material that you would be okay if the model memorized and repeated. Again, we will release a list of contributors to this initial model, but it is not possible with our setup to have the model directly cite your work. 
+
+If you are a librarian and have digitized open access content that you think might fit our goals, please [contact us via email](mailto:organizers@feministai.party).
 
 In the future, we will provide alternative approaches in this repository to allow for better privacy and copyright protections for any and all contributors.
 
@@ -28,6 +30,8 @@ In the future, we will provide alternative approaches in this repository to allo
 
 If we don't have enough submissions, it could be that we cannot properly train a model. We will make sure to inform all contributors as the process gets closer and will delete any unused data that is not explicitly confirmed to be saved for future events.
 
+Note on machine learning and our world: Feminism is too diverse and complex to ever be truly represented by a series of cool math equations. This work isn't meant to replace amazing research and work on proving that point! It is meant to increase visibility, hold space and spark conversation about the intersections of feminism and what we today call AI.
+
 #### I'm interested, how do I contribute?
 
-If the number of files you have is large, please [contact us via email](mailto:info@probablyprivate.com) to arrange file transfer. If you have a small amount of files or only want to contribute a small amount of texts, please [use this Google Form](https://docs.google.com/forms/d/e/1FAIpQLScRQV4Kx5L_bPrO0QT-2jd2aUkDWYZd_77_z1YcD3oglvF8qA/viewform?usp=header). 
+If the number of files you have is large, please [contact us via email](mailto:organizers@feministai.party) to arrange file transfer. If you have a small amount of files or only want to contribute a small amount of texts, please [use this Google Form](https://docs.google.com/forms/d/e/1FAIpQLScRQV4Kx5L_bPrO0QT-2jd2aUkDWYZd_77_z1YcD3oglvF8qA/viewform?usp=header). 
